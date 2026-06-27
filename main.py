@@ -5,7 +5,7 @@ from PyQt6.QtCore import (QCoreApplication, QPropertyAnimation, QDate, QDateTime
 from PyQt6.QtGui import (QBrush, QColor, QConicalGradient, QCursor, QFont, QFontDatabase, QIcon, QKeySequence, QLinearGradient, QPalette, QPainter, QPixmap, QRadialGradient)
 from PyQt6.QtWidgets import *
 
-# GUI FILE
+# GUI FILE  rec
 from app_modules import *
 
 class MainWindow(QMainWindow):
