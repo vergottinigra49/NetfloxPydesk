@@ -1,29 +1,32 @@
-# UIXCore - Desk Template - PyQt6(Migrado) (MODERN / FLAT GUI)
+# netfloxpydesk (MODERN / FLAT GUI)
 
-> **Warning**: use PyQt6 > PyQt6-6.8.1 PyQt6-Qt6-6.8.2 PyQt6-sip-13.10.0 (**pip install PyQt6**)!
+> **Nota**: Este proyecto ha sido migrado y funciona utilizando PyQt6 (**pip install PyQt6**).
 
 ![widgets_view](img/image-1.png)
 
 ![home_vie](img/image-2.png)
 
-Proyecto creado utilizando Python, Qt Designer y PyQt6.
-Espero que sea de ayuda para todos los que están comenzando en el mundo de Python.
-Este proyecto funciona muy bien en Windows; sin embargo, en Linux y macOS hay algunos problemas con el tamaño de las fuentes y la barra de título personalizada no funciona correctamente.
+Proyecto **netfloxpydesk** creado utilizando Python, Qt Designer y PyQt6.
+Es una interfaz gráfica moderna de escritorio para la gestión del sistema. 
 
-## REQUERIMENTS
+Este proyecto funciona muy bien en Windows; sin embargo, en Linux y macOS puede haber algunos detalles con el tamaño de las fuentes y la barra de título personalizada.
 
->
-> ```sh
-> python -m venv env
-> .\env\Scripts\Activate
-> pip install PyQt6
-> ```
->
+## REQUISITOS
 
-## RUN FILE
+Para instalar las dependencias necesarias en tu entorno de desarrollo, ejecuta:
 
-main.py
+```sh
+pip install PyQt6
+```
 
-## ADD MENUS
+## CÓMO EJECUTAR
+
+Para iniciar la aplicación, ejecuta el archivo principal desde la terminal:
+
+```sh
+python main.py
+```
+
+## AGREGAR MENÚS
 
 ![add-MENUS](img/image-3.png)
